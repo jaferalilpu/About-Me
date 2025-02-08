@@ -16,7 +16,7 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
-import programmingPathshala from "./company/programmingpathshala.png"; 
+import programmingPathshala from "./company/programmingPathshala.png"; 
 import physicsWallah from "./company/physicswallah.jpg";
 
 import carrent from "./carrent.png";
