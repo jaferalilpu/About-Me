@@ -17,7 +17,7 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import programmingPathshala from "./company/ProgrammingPathshala.png"; 
-import physicsWallah from "./company/physicswallah.jpg";
+import physicsWallah from "./company/PhysicsWallah.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
