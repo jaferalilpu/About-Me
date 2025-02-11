@@ -121,7 +121,7 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website, but Jafer proved me wrong.",
-    name: "Shamreena",
+    name: "Jessica Jasyleen",
     designation: "Associate Software Engineer",
     company: "LTTS",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -137,10 +137,10 @@ const testimonials = [
   {
     testimonial:
       "After Jafer Joined with me, We are now ready to bring new change in Development",
-    name: "Saniya",
-    designation: "Junior Software Engineer",
-    company: "Microsoft",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    name: "Raju",
+    designation: "Software Engineer",
+    company: "Tech Mahindra",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQERMvLc4fc9Dg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730916161363?e=1744848000&v=beta&t=mBHWwafjq9JTZKqeojRVz4YLT0FxLYotFGL3uxqm7oc",
   },
 ];
 
